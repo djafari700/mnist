@@ -15,4 +15,4 @@
     ستون دیگری به اسم <code>label</code> فقط در دیتافریم آموزش یافت می‌شود که نشانگر عدد درون تصویر است.
 
 
-![Alt Text](four.png)
+![Alt Text](./notebooks/four.png)
